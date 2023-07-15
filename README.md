@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://i.ibb.co/wzX8dpK/roshan-github-banner.png" alt="MasterHead" style="display: block;">
+  <img src="https://i.ibb.co/09y9X4D/roshan-github-banner-transformed.png" alt="MasterHead" height =300 width=1000 style="display: block;">
 </div>
 <h1 align=" center ">Hi 👋 , I'm Roshan</h1>
 
