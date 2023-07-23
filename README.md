@@ -19,12 +19,11 @@
 - 🔭 I’m currently working on **Web Development Project...**
 - 🌱 I’m currently learning **React.js, Adv Java...**
 - 📫 How to reach me **roshanlipu100@gmail.com**
-- ⚡ Fun fact **I think I am different** 
-
-<p align="center">
+- ⚡ Fun fact **I think I am different**
+  
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=roshan-nayak1&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-nayak1">
 </p>
-
 <h3 align="left">Connect with me :</h3>
 <p align="left">
   <a href="https://instagram.com/_rosha_n_ayak_" target="blank">
