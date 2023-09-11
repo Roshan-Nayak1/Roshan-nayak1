@@ -106,14 +106,4 @@
   </a>
 </p><br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-nayak1&show_icons=true&theme=dark&locale=en&layout=compact" alt="roshan-nayak1">
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshan-nayak1&show_icons=true&locale=en" alt="roshan-nayak1">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-nayak1" alt="roshan-nayak1">
-</p>
