@@ -1,11 +1,8 @@
 <div align="center">
-  <img src="https://i.ibb.co/09y9X4D/roshan-github-banner-transformed.png" alt="MasterHead" height="300" width="1000">
+  <img src="https://i.ibb.co/09y9X4D/roshan-github-banner-transformed.png" alt="MasterHead" height="280" width="1000">
 </div>
 
 <h1 align="center">Hi 👋 , I'm Roshan</h1>
-
-<h3 align="center">" Don't Quit "</h3>
-
 <p align="center">
   <a href="https://twitter.com/roshan_stwt" target="blank">
     <img src="https://img.shields.io/twitter/follow/roshan_stwt?logo=twitter&style=for-the-badge" alt="roshan_stwt" />
@@ -19,16 +16,13 @@
 - 🔭 I’m currently working on **Web Development Project...**
 - 🌱 I’m currently learning **React.js, Adv Java...**
 - 📫 How to reach me **roshanlipu100@gmail.com**
-- ⚡ Fun fact **I think I am different**
+- ⚡ Fun fact **I Think Deep**
   
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=roshan-nayak1&label=Profile%20views&color=0e75b6&style=flat" alt="roshan-nayak1">
 </p>
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-  <a href="https://instagram.com/_rosha_n_ayak_" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rosha_n_ayak_" height="30" width="40">
-  </a>
   <a href="https://twitter.com/roshan_stwt" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="roshan_stwt" height="30" width="40">
   </a>
@@ -39,7 +33,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-nayak-connect" height="30" width="40">
   </a>
 </p>
-
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -99,11 +92,12 @@
   <!-- Add other tools and languages here -->
 </p>
 
-<h3 align="center">Support :</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/RoshanNayak">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Roshan Nayak">
-  </a>
-</p><br><br>
+<br>
+</br>
+
+<a href="https://holopin.io/@roshannayak1" target="_blank">
+  <img src="https://holopin.me/roshannayak1" alt="An image of @roshannayak1's Holopin badges, which is a link to view their full Holopin profile" width="1000" height="250">
+</a>
+
 
 
