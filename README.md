@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://i.ibb.co/09y9X4D/roshan-github-banner-transformed.png" alt="MasterHead" height="280" width="1000">
-</div>
 
 <h1 align="center">Hi 👋 , I'm Roshan</h1>
 <p align="center">
